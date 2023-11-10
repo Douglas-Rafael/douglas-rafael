@@ -3,7 +3,7 @@
 - 👩🏻‍💻 dev back-end java jr
 - 👩🏻‍💻 computer engineer
 
-I am currently pursuing a degree in computer engineering while taking courses at Alura.
+Junior-level Java back-end developer, currently a student of Computer Engineering.
 
 <div> 
 
